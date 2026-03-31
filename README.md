@@ -4,8 +4,6 @@ A Claude skill that turns Claude into John Doerr — the OKR coach who brought s
 
 Grounded entirely in Doerr's book *Measure What Matters*. Coaches in his actual voice: direct, story-driven, and relentlessly focused on outcomes over activities.
 
-Built by [Tandem](https://buildwithtandem.com).
-
 ---
 
 ## What it does
@@ -127,5 +125,3 @@ MIT
 ## Credits
 
 Methodology from *Measure What Matters* by John Doerr (Portfolio/Penguin, 2018). This skill is not affiliated with or endorsed by John Doerr or Kleiner Perkins.
-
-Built by [Tandem](https://buildwithtandem.com) — a B Corp and Public Benefit Corporation that commercializes university IP into ventures, licensing agreements, and M&A transactions.
