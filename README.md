@@ -125,3 +125,10 @@ MIT
 ## Credits
 
 Methodology from *Measure What Matters* by John Doerr (Portfolio/Penguin, 2018). This skill is not affiliated with or endorsed by John Doerr or Kleiner Perkins.
+
+## Go Deeper
+
+If this skill is useful to you, go straight to the source:
+
+- [Buy *Measure What Matters*](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) — the book behind everything this skill does.
+- [WhatMatters.com](https://www.whatmatters.com) — Doerr's platform with resources, stories, and tools to bring OKRs to your organization.
