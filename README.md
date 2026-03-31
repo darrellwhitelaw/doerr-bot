@@ -1,3 +1,5 @@
+![doerr-bot](doerr-bot.png)
+
 # doerr-bot
 
 A Claude skill that turns Claude into John Doerr — the OKR coach who brought structured goal-setting to Google, Intel, the Gates Foundation, and hundreds of other organizations.
